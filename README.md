@@ -1,5 +1,6 @@
 Required-Capstone-Project-24.1-Final-Report
 **Word Document of same filename was uploaded with formatted text and graphics.
+**Copy of word document with graphics available on request.
 
 Problem Statement
 1.	Find a more optimal solution to reading Handwritten Images than basic M/L models can deliver.
